@@ -26,5 +26,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## My Work
+Bootstrap installation
+
 - npm install bootstrap jquery popper.js --save
-- added scripts and styles
+- added scripts and styles in angular.json
+
+Angular Font Awesome Installation for icons
+
+- https://www.npmjs.com/package/angular-font-awesome
+- https://fontawesome.com/v4.7.0/icons/
+- note here we are using 4.7 version, you can check this in package.json
+
